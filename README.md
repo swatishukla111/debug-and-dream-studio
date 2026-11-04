@@ -1,6 +1,6 @@
 # Debug And Dream Studio
 
-debug and create the app
+debug and create the app 
 
 ## Build with Lovable
 

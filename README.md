@@ -2,11 +2,7 @@
 
 debug and create the app
 
-This project was built with [Lovable](https://lovable.dev).
-
 ## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/59b93727-c46a-41af-acc2-b5bd6af10030).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: every change made in Lovable is committed straight to this repository.
